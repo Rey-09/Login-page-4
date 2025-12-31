@@ -27,8 +27,6 @@ A **futuristic-themed login interface** built using HTML, CSS, and JavaScript. D
 2. Make sure all required files are in the same directory  
 3. Open `index.html` in your browser  
 
-```bash
-open index.html
 
 ## Output:
 <img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/584d29be-fbfc-43fb-b655-ed729a5e4ebc" />
