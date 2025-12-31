@@ -29,3 +29,7 @@ A **futuristic-themed login interface** built using HTML, CSS, and JavaScript. D
 
 ```bash
 open index.html
+
+## Output:
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/584d29be-fbfc-43fb-b655-ed729a5e4ebc" />
+
